@@ -19,3 +19,5 @@ yarn add @types/mongoose -D
 yarn add uuid
 
 yarn add @types/uuid -D
+
+yarn add tsyringe reflect-metadata
